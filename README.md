@@ -1,6 +1,6 @@
 # The CosmWasm Smart Contracts Book
 
-The book about writing Smart Contracts for CosmWasm using Rust
+A book about writing Smart Contracts for CosmWasm using Rust
 
 ## About
 

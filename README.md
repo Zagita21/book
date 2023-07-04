@@ -8,9 +8,9 @@ This repo contains source code for [The CosmWasm Book](https://cosmwasm.github.i
 
 ## Building
 
-The book is build using [mdbook](https://github.com/rust-lang/mdBook).
+The book was built using [mdbook](https://github.com/rust-lang/mdBook).
 
-To build it, you need to install [Rust](https://www.rust-lang.org/tools/install) first.
+To build it yourself, you'll need to install [Rust](https://www.rust-lang.org/tools/install) first.
 
 Then install `mdbook` using cargo:
 
@@ -18,7 +18,7 @@ Then install `mdbook` using cargo:
 $ cargo install mdbook
 ```
 
-and build the book from this directory:
+and finally build the book itself from within this directory:
 
 ```bash
 mdbook build

@@ -1,8 +1,8 @@
 # Introduction
 
 This book is a guide for creating CosmWasm smart contracts. It will lead you
-step by step through the process, and explain all of the relevant topics from
-the easiest to the trickiest ones.
+step by step through the process, and explain all of the relevant topics, from
+the easiest to the trickiest.
 
 The idea of the book is not only to describe the API for smart contracts but also
 to show you how to use them in a clean and maintainable way. We will show you
@@ -13,12 +13,12 @@ patterns that CosmWasm creators have established and encourage you to use as wel
 This book explores CosmWasm smart contracts. It is not a Rust tutorial, and
 assumes basic Rust knowledge.  We strongly recommend ensuring you have a good
 grasp of the language itself first. You can find great resources for starting
-with Rust on [Learn Rust](https://www.rust-lang.org/learn) page.
+with Rust on the [Learn Rust](https://www.rust-lang.org/learn) page.
 
 ## CosmWasm API documentation
 
-This documentation is presented as a guide. If you are looking for the API
-documentation, you may be interested in checking out one of the following:
+This documentation is presented in the style of a guide-book. If you are looking
+for API documentation, you may be interested in checking out one of the following:
 
 - [cosmwasm-std](https://crates.io/crates/cosmwasm-std)
 - [cw-storage-plus](https://crates.io/crates/cw-storage-plus)
